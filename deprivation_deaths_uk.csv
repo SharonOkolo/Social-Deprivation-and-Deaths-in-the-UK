@@ -1,0 +1,241 @@
+year,city,nation,deprivation_domain_name,imd_decile,deprivation_score_0_100,population,deaths,mortality_rate_per_100k,median_income_gbp,unemployment_rate_percent,life_expectancy_years,avoidable_mortality_rate_per_100k
+2020,London,England,Income,5,53.6,9360,58,623.1,31135,7.6,79.1,188.2
+2020,London,England,Employment,6,43.3,9251,50,538.8,32337,4.9,79.8,177.3
+2020,London,England,Health,3,72.9,9215,66,712.1,29695,9.2,75.5,255.8
+2020,London,England,Education,3,72.4,9252,59,639.8,28803,9.6,74.9,220.1
+2020,Birmingham,England,Income,2,77.8,1159,8,704.2,25961,8.6,73.1,279.5
+2020,Birmingham,England,Employment,3,72.7,1160,8,669.2,23669,10.0,75.0,224.6
+2020,Birmingham,England,Health,3,66.7,1153,8,693.7,26968,9.9,76.2,261.6
+2020,Birmingham,England,Education,4,62.4,1142,7,585.0,31604,8.5,76.3,194.5
+2020,Manchester,England,Income,4,67.1,554,4,680.3,28956,8.1,76.9,256.5
+2020,Manchester,England,Employment,6,55.1,549,3,595.6,31099,5.9,79.8,209.0
+2020,Manchester,England,Health,3,73.1,563,4,723.5,25115,9.0,76.1,275.2
+2020,Manchester,England,Education,4,67.1,555,3,620.2,29567,8.4,76.3,212.5
+2020,Leeds,England,Income,5,54.8,812,5,607.7,28473,7.5,77.5,239.6
+2020,Leeds,England,Employment,4,63.6,795,5,628.4,31896,8.6,75.3,207.4
+2020,Leeds,England,Health,4,70.4,810,6,720.1,27333,7.7,77.5,233.1
+2020,Leeds,England,Education,6,42.6,823,4,533.1,37136,6.3,79.1,204.5
+2020,Liverpool,England,Income,1,88.3,498,4,762.1,19823,11.1,72.2,281.3
+2020,Liverpool,England,Employment,3,73.9,497,3,682.2,24763,9.1,75.8,249.7
+2020,Liverpool,England,Health,3,75.9,489,4,746.0,26539,10.0,74.4,278.0
+2020,Liverpool,England,Education,1,91.9,504,4,735.3,23731,11.1,72.0,271.5
+2020,Glasgow,Scotland,Income,1,92.0,628,5,794.9,24324,10.3,73.8,290.7
+2020,Glasgow,Scotland,Employment,3,69.4,635,4,649.9,26107,10.1,75.2,236.0
+2020,Glasgow,Scotland,Health,2,85.4,633,5,822.9,24911,9.5,73.3,324.3
+2020,Glasgow,Scotland,Education,4,62.6,639,4,598.8,30897,9.4,76.3,198.6
+2020,Edinburgh,Scotland,Income,7,32.3,540,3,509.2,35166,6.3,80.2,197.4
+2020,Edinburgh,Scotland,Employment,5,56.6,545,3,595.8,33609,8.5,77.3,227.0
+2020,Edinburgh,Scotland,Health,7,47.6,543,3,617.6,35018,6.7,79.9,208.5
+2020,Edinburgh,Scotland,Education,8,27.5,535,2,449.5,37056,4.0,81.7,161.4
+2020,Cardiff,Wales,Income,4,66.3,370,2,651.6,27002,9.1,76.0,198.8
+2020,Cardiff,Wales,Employment,5,61.2,376,2,644.7,31365,7.8,78.2,214.2
+2020,Cardiff,Wales,Health,4,65.6,367,3,691.3,29620,9.3,75.6,218.2
+2020,Cardiff,Wales,Education,5,55.0,364,2,581.9,33794,8.1,79.1,210.2
+2020,Belfast,Northern Ireland,Income,2,79.5,349,3,718.5,26000,10.8,73.5,250.9
+2020,Belfast,Northern Ireland,Employment,4,59.1,344,2,594.9,27620,9.8,77.7,181.2
+2020,Belfast,Northern Ireland,Health,5,49.7,349,2,614.6,30613,8.2,78.0,186.0
+2020,Belfast,Northern Ireland,Education,3,73.9,345,2,631.1,29075,8.9,77.1,223.8
+2020,Bristol,England,Income,5,55.8,473,3,607.6,30642,7.4,77.3,189.5
+2020,Bristol,England,Employment,7,38.9,478,3,529.7,36448,5.7,80.9,168.3
+2020,Bristol,England,Health,6,46.8,471,3,601.8,35847,6.5,79.4,232.2
+2020,Bristol,England,Education,6,49.7,469,3,542.4,33108,7.0,79.7,207.5
+2021,London,England,Income,6,44.1,9330,52,558.5,34176,7.5,78.3,183.9
+2021,London,England,Employment,7,39.6,9188,49,538.1,36430,5.6,80.2,191.0
+2021,London,England,Health,6,44.6,9223,54,585.3,34686,6.5,78.3,180.5
+2021,London,England,Education,5,52.7,9318,53,567.4,33570,8.7,77.4,224.0
+2021,Birmingham,England,Income,2,80.4,1153,9,748.5,26625,10.1,74.2,225.4
+2021,Birmingham,England,Employment,2,79.0,1149,8,725.7,26803,10.6,74.3,244.9
+2021,Birmingham,England,Health,3,70.8,1152,8,718.6,27496,8.8,75.4,260.8
+2021,Birmingham,England,Education,4,61.7,1171,7,614.6,33206,8.5,77.4,222.5
+2021,Manchester,England,Income,3,70.2,543,4,676.7,25931,9.5,75.7,224.0
+2021,Manchester,England,Employment,6,46.7,560,3,570.5,36274,7.6,78.9,220.6
+2021,Manchester,England,Health,5,52.6,545,4,645.0,31622,8.8,76.5,197.1
+2021,Manchester,England,Education,3,72.8,556,4,667.0,27430,9.1,74.1,208.7
+2021,Leeds,England,Income,5,55.5,817,5,600.6,28045,8.8,78.1,211.4
+2021,Leeds,England,Employment,4,63.3,824,5,640.4,31470,9.4,76.7,218.0
+2021,Leeds,England,Health,5,58.1,804,5,664.2,32590,6.4,76.9,259.3
+2021,Leeds,England,Education,3,72.6,794,5,642.2,29518,10.2,75.7,253.6
+2021,Liverpool,England,Income,1,89.8,499,4,775.0,18406,10.9,72.0,238.4
+2021,Liverpool,England,Employment,4,59.7,500,3,630.5,29494,10.2,76.3,200.0
+2021,Liverpool,England,Health,2,78.6,497,4,744.6,24237,9.2,75.8,226.3
+2021,Liverpool,England,Education,3,73.5,503,3,662.4,25373,8.8,75.9,212.6
+2021,Glasgow,Scotland,Income,2,74.1,625,4,717.7,29766,10.0,74.7,252.0
+2021,Glasgow,Scotland,Employment,3,69.1,635,4,683.1,22815,8.8,74.7,230.7
+2021,Glasgow,Scotland,Health,2,77.8,645,5,763.4,25545,11.4,74.3,273.8
+2021,Glasgow,Scotland,Education,2,79.7,645,4,674.4,23743,11.3,73.2,240.8
+2021,Edinburgh,Scotland,Income,5,55.7,536,3,608.9,29892,7.1,77.8,207.7
+2021,Edinburgh,Scotland,Employment,6,46.2,539,3,562.0,34004,6.4,78.6,206.2
+2021,Edinburgh,Scotland,Health,7,38.3,530,3,564.6,34111,6.7,79.6,198.0
+2021,Edinburgh,Scotland,Education,5,52.6,538,3,542.0,33439,6.9,78.0,188.7
+2021,Cardiff,Wales,Income,4,63.1,366,2,645.2,31227,8.1,77.3,242.6
+2021,Cardiff,Wales,Employment,4,60.8,379,2,605.5,27727,8.7,76.7,192.6
+2021,Cardiff,Wales,Health,5,53.5,374,2,636.5,32291,7.5,77.4,201.4
+2021,Cardiff,Wales,Education,5,55.6,373,2,547.0,31813,7.6,78.6,208.8
+2021,Belfast,Northern Ireland,Income,1,87.0,338,3,757.7,23292,12.3,73.3,256.4
+2021,Belfast,Northern Ireland,Employment,4,65.7,345,2,638.5,29154,8.7,77.1,212.9
+2021,Belfast,Northern Ireland,Health,4,61.8,347,2,701.2,29925,8.8,76.2,227.8
+2021,Belfast,Northern Ireland,Education,3,76.5,346,2,661.1,27525,10.4,75.0,208.2
+2021,Bristol,England,Income,7,33.2,476,3,525.4,37518,7.7,79.6,167.2
+2021,Bristol,England,Employment,4,63.5,475,3,628.5,24472,8.7,78.7,227.0
+2021,Bristol,England,Health,6,47.2,474,3,604.8,31624,7.4,80.5,207.1
+2021,Bristol,England,Education,8,27.6,472,2,449.2,39674,7.4,81.8,152.7
+2022,London,England,Income,5,52.7,9205,48,516.6,33466,7.9,76.8,193.1
+2022,London,England,Employment,4,58.5,9275,50,536.5,30079,8.6,75.5,183.4
+2022,London,England,Health,5,56.1,9471,56,590.3,30440,6.9,79.9,181.0
+2022,London,England,Education,5,51.7,9362,46,495.1,32396,9.9,76.9,151.8
+2022,Birmingham,England,Income,3,76.5,1119,7,649.4,28364,7.7,75.1,250.8
+2022,Birmingham,England,Employment,3,71.6,1156,7,613.8,24459,9.1,75.3,193.7
+2022,Birmingham,England,Health,4,66.8,1158,7,610.4,27247,9.0,75.6,189.2
+2022,Birmingham,England,Education,4,65.4,1139,6,553.3,29145,9.9,75.8,177.3
+2022,Manchester,England,Income,5,53.1,556,3,522.9,33580,7.7,77.4,170.4
+2022,Manchester,England,Employment,5,57.9,545,3,556.8,27687,8.8,76.1,191.3
+2022,Manchester,England,Health,4,62.7,551,3,610.7,29247,9.5,76.7,209.2
+2022,Manchester,England,Education,5,60.5,558,3,523.6,29047,6.8,77.9,171.3
+2022,Leeds,England,Income,5,51.1,815,4,509.0,34292,8.2,78.0,183.3
+2022,Leeds,England,Employment,6,42.0,816,4,480.1,36116,7.3,77.1,146.3
+2022,Leeds,England,Health,5,51.8,813,4,549.0,30821,6.7,77.1,204.2
+2022,Leeds,England,Education,4,64.7,797,5,572.7,28210,8.7,76.7,184.1
+2022,Liverpool,England,Income,2,81.4,510,3,655.6,26957,9.6,74.2,241.8
+2022,Liverpool,England,Employment,5,49.3,496,3,518.2,33733,6.9,78.5,186.0
+2022,Liverpool,England,Health,2,80.3,497,3,690.6,25291,9.1,74.5,262.9
+2022,Liverpool,England,Education,4,66.9,503,3,550.6,29551,7.4,76.6,219.6
+2022,Glasgow,Scotland,Income,3,72.6,636,4,604.7,24682,10.2,75.4,233.5
+2022,Glasgow,Scotland,Employment,4,61.6,640,3,545.9,30601,7.8,77.6,203.3
+2022,Glasgow,Scotland,Health,3,70.7,644,4,643.4,29393,8.2,75.6,208.0
+2022,Glasgow,Scotland,Education,4,65.1,635,4,564.0,27348,8.2,74.6,204.6
+2022,Edinburgh,Scotland,Income,6,49.4,548,3,516.0,31819,6.8,77.9,170.1
+2022,Edinburgh,Scotland,Employment,6,39.2,533,2,457.7,36565,6.9,78.3,177.5
+2022,Edinburgh,Scotland,Health,7,38.0,533,3,501.9,35826,6.6,80.4,162.1
+2022,Edinburgh,Scotland,Education,10,7.4,536,2,329.9,41892,3.4,83.7,130.9
+2022,Cardiff,Wales,Income,7,34.3,366,2,464.7,35323,6.7,80.4,167.0
+2022,Cardiff,Wales,Employment,3,69.5,370,2,590.9,28797,9.8,76.3,209.8
+2022,Cardiff,Wales,Health,5,51.6,364,2,548.3,32032,9.2,77.4,211.2
+2022,Cardiff,Wales,Education,6,34.6,366,2,443.9,37046,8.1,78.1,158.3
+2022,Belfast,Northern Ireland,Income,5,52.9,347,2,550.6,33410,8.2,78.7,199.2
+2022,Belfast,Northern Ireland,Employment,6,43.1,346,2,481.9,32569,6.4,79.4,184.0
+2022,Belfast,Northern Ireland,Health,4,66.8,345,2,624.6,25571,9.2,77.1,236.1
+2022,Belfast,Northern Ireland,Education,7,36.8,343,2,444.7,35895,7.2,79.0,174.9
+2022,Bristol,England,Income,5,54.6,477,3,531.9,31620,7.2,78.8,162.0
+2022,Bristol,England,Employment,4,64.1,469,3,571.5,24904,9.2,77.5,196.9
+2022,Bristol,England,Health,4,56.4,474,3,572.2,28856,9.2,76.8,209.1
+2022,Bristol,England,Education,6,44.3,466,2,466.4,35183,6.0,80.3,152.7
+2023,London,England,Income,5,54.7,9277,51,549.1,28814,9.0,77.7,217.9
+2023,London,England,Employment,7,36.8,9278,44,469.1,37242,6.6,80.7,170.1
+2023,London,England,Health,5,56.1,9291,55,594.2,29615,9.2,77.8,182.1
+2023,London,England,Education,4,58.2,9352,48,514.6,32435,8.4,76.6,158.1
+2023,Birmingham,England,Income,3,64.7,1131,7,596.0,30389,9.7,74.6,193.2
+2023,Birmingham,England,Employment,3,79.2,1149,7,641.6,28761,8.7,75.4,215.0
+2023,Birmingham,England,Health,2,80.2,1170,8,690.4,23818,10.7,75.3,209.3
+2023,Birmingham,England,Education,5,59.4,1154,6,531.7,31503,7.3,78.7,202.8
+2023,Manchester,England,Income,6,45.6,566,3,498.2,37073,7.2,78.5,192.9
+2023,Manchester,England,Employment,4,59.9,552,3,563.2,32282,11.0,76.5,209.5
+2023,Manchester,England,Health,4,63.4,558,3,596.5,28645,7.3,76.9,223.3
+2023,Manchester,England,Education,5,48.4,549,3,465.0,36901,7.7,79.2,180.1
+2023,Leeds,England,Income,5,56.7,817,4,534.0,33790,8.9,77.3,198.4
+2023,Leeds,England,Employment,6,46.0,809,4,478.6,33406,6.9,79.8,168.2
+2023,Leeds,England,Health,6,39.8,809,4,491.6,32465,7.9,78.6,195.2
+2023,Leeds,England,Education,6,40.3,809,3,427.0,35425,6.8,80.0,138.7
+2023,Liverpool,England,Income,5,56.6,496,3,548.3,30219,9.5,78.1,196.6
+2023,Liverpool,England,Employment,4,62.1,499,3,560.9,28375,8.6,76.0,220.8
+2023,Liverpool,England,Health,4,62.8,498,3,582.2,31143,8.9,77.4,203.1
+2023,Liverpool,England,Education,1,87.4,500,3,625.3,24441,11.2,72.5,215.3
+2023,Glasgow,Scotland,Income,3,72.7,640,4,626.1,27137,9.7,77.3,242.2
+2023,Glasgow,Scotland,Employment,3,70.7,635,4,602.5,28235,8.5,75.9,220.4
+2023,Glasgow,Scotland,Health,5,50.6,636,3,543.4,32231,8.1,78.1,193.8
+2023,Glasgow,Scotland,Education,4,64.7,637,3,527.4,26959,9.4,77.1,198.4
+2023,Edinburgh,Scotland,Income,7,40.1,539,3,485.0,34622,6.2,79.3,164.7
+2023,Edinburgh,Scotland,Employment,6,42.3,548,3,464.8,33806,6.0,78.5,142.8
+2023,Edinburgh,Scotland,Health,9,21.0,536,2,449.6,41706,4.3,80.6,136.0
+2023,Edinburgh,Scotland,Education,10,5.5,531,2,333.0,39969,5.7,84.4,125.4
+2023,Cardiff,Wales,Income,6,47.6,372,2,518.1,33318,6.9,78.4,180.6
+2023,Cardiff,Wales,Employment,5,51.4,366,2,532.4,30918,6.3,78.1,192.2
+2023,Cardiff,Wales,Health,4,65.8,366,2,616.9,29644,7.8,76.7,228.8
+2023,Cardiff,Wales,Education,4,63.5,366,2,559.6,28979,8.1,76.7,203.3
+2023,Belfast,Northern Ireland,Income,4,64.6,345,2,586.9,27438,8.1,75.5,225.4
+2023,Belfast,Northern Ireland,Employment,6,44.2,347,2,500.0,32554,7.6,78.6,171.2
+2023,Belfast,Northern Ireland,Health,3,72.8,342,2,676.2,24415,9.6,75.9,217.5
+2023,Belfast,Northern Ireland,Education,5,57.7,350,2,501.6,31117,9.0,76.5,175.4
+2023,Bristol,England,Income,5,58.9,479,3,555.8,31408,9.1,77.5,171.5
+2023,Bristol,England,Employment,6,41.7,468,2,473.8,34180,6.4,79.0,180.1
+2023,Bristol,England,Health,6,40.3,473,2,517.5,30929,7.3,80.0,206.7
+2023,Bristol,England,Education,5,56.1,481,2,510.7,34432,7.9,77.3,202.1
+2024,London,England,Income,6,42.2,9315,44,475.4,34218,6.3,78.4,174.2
+2024,London,England,Employment,7,34.4,9169,41,451.6,37960,6.3,81.2,163.6
+2024,London,England,Health,5,53.1,9312,52,561.7,33148,8.6,77.2,173.4
+2024,London,England,Education,4,63.3,9365,50,531.8,25982,10.3,75.7,187.0
+2024,Birmingham,England,Income,3,74.5,1150,7,626.8,28209,9.2,75.6,237.6
+2024,Birmingham,England,Employment,4,61.5,1147,6,548.0,28924,7.8,77.7,217.9
+2024,Birmingham,England,Health,5,55.4,1149,7,583.7,33924,8.2,77.8,198.4
+2024,Birmingham,England,Education,2,79.9,1138,7,613.2,25136,8.8,73.7,215.0
+2024,Manchester,England,Income,3,71.6,548,3,622.8,30169,10.4,75.2,190.5
+2024,Manchester,England,Employment,6,43.3,552,3,483.0,32759,7.2,78.5,147.9
+2024,Manchester,England,Health,4,63.0,557,3,621.5,31146,7.4,74.6,194.6
+2024,Manchester,England,Education,6,44.6,560,3,462.8,31504,8.0,78.7,172.8
+2024,Leeds,England,Income,5,46.2,807,4,513.9,30485,7.9,77.8,159.8
+2024,Leeds,England,Employment,6,39.1,828,4,455.9,35139,7.9,78.3,158.5
+2024,Leeds,England,Health,4,58.2,823,5,583.4,29122,9.4,76.1,189.9
+2024,Leeds,England,Education,8,26.7,819,3,415.7,40745,5.6,82.0,150.2
+2024,Liverpool,England,Income,3,69.7,500,3,599.8,31591,9.5,75.1,184.2
+2024,Liverpool,England,Employment,4,60.6,504,3,546.9,27196,9.1,77.5,174.2
+2024,Liverpool,England,Health,5,56.2,502,3,568.0,28117,9.0,77.5,205.3
+2024,Liverpool,England,Education,3,73.9,504,3,576.8,26595,10.6,76.8,216.2
+2024,Glasgow,Scotland,Income,4,66.2,632,4,583.0,26356,7.0,78.2,229.9
+2024,Glasgow,Scotland,Employment,2,79.5,632,4,639.3,24783,9.1,74.9,244.0
+2024,Glasgow,Scotland,Health,3,72.8,633,4,669.8,27770,10.0,75.9,212.8
+2024,Glasgow,Scotland,Education,5,55.0,635,3,508.4,31083,8.5,78.3,163.4
+2024,Edinburgh,Scotland,Income,9,18.1,541,2,411.3,40965,6.7,83.1,151.7
+2024,Edinburgh,Scotland,Employment,5,55.0,544,3,528.1,32209,7.6,77.8,171.5
+2024,Edinburgh,Scotland,Health,7,33.4,536,3,484.2,39977,6.5,79.2,162.5
+2024,Edinburgh,Scotland,Education,8,27.8,547,2,385.7,35828,5.0,80.7,149.5
+2024,Cardiff,Wales,Income,7,34.8,370,2,472.4,33462,4.8,79.0,179.2
+2024,Cardiff,Wales,Employment,7,36.5,366,2,486.1,35272,6.3,79.6,173.1
+2024,Cardiff,Wales,Health,8,30.6,373,2,471.9,38900,5.0,80.7,144.3
+2024,Cardiff,Wales,Education,6,48.3,367,2,494.9,34277,4.8,79.6,155.8
+2024,Belfast,Northern Ireland,Income,3,66.4,344,2,592.4,31426,9.9,74.6,215.4
+2024,Belfast,Northern Ireland,Employment,7,35.0,345,2,466.8,35653,7.2,78.7,167.5
+2024,Belfast,Northern Ireland,Health,4,59.6,345,2,571.2,30736,8.5,76.2,221.2
+2024,Belfast,Northern Ireland,Education,3,70.9,346,2,569.6,30057,8.5,75.4,175.5
+2024,Bristol,England,Income,6,50.3,479,2,520.8,31216,7.4,78.2,195.4
+2024,Bristol,England,Employment,7,37.1,472,2,450.0,33949,6.5,80.0,146.2
+2024,Bristol,England,Health,7,33.6,479,2,474.5,36559,5.6,78.3,158.8
+2024,Bristol,England,Education,8,27.7,472,2,411.2,38258,5.3,80.9,134.1
+2025,London,England,Income,6,41.2,9327,44,471.9,35623,7.0,77.7,147.0
+2025,London,England,Employment,7,34.7,9249,43,459.6,35420,7.0,82.3,143.2
+2025,London,England,Health,6,47.1,9316,50,532.7,31574,7.1,78.1,168.6
+2025,London,England,Education,2,79.7,9486,60,627.5,23017,9.6,74.3,220.4
+2025,Birmingham,England,Income,3,76.1,1142,7,625.1,25003,8.6,75.5,200.3
+2025,Birmingham,England,Employment,6,43.9,1155,6,493.8,33956,7.0,78.4,193.0
+2025,Birmingham,England,Health,3,81.6,1153,8,679.9,23752,10.3,75.5,223.5
+2025,Birmingham,England,Education,2,82.1,1165,7,630.0,25551,10.8,74.0,222.6
+2025,Manchester,England,Income,5,51.5,551,3,543.5,31465,7.5,77.0,187.0
+2025,Manchester,England,Employment,5,51.8,556,3,524.7,32534,8.2,77.8,179.3
+2025,Manchester,England,Health,3,73.3,553,4,664.3,29053,11.5,75.9,204.6
+2025,Manchester,England,Education,5,51.6,558,3,499.5,32712,9.2,78.1,165.6
+2025,Leeds,England,Income,7,35.6,794,4,457.4,38682,6.2,79.4,169.8
+2025,Leeds,England,Employment,5,52.3,808,4,516.5,27864,8.4,78.8,187.0
+2025,Leeds,England,Health,7,34.7,815,4,482.4,34516,6.5,79.3,177.8
+2025,Leeds,England,Education,7,34.8,816,3,424.3,37856,7.3,81.0,149.0
+2025,Liverpool,England,Income,2,79.0,500,3,648.8,25959,10.6,74.7,211.5
+2025,Liverpool,England,Employment,5,54.8,501,3,523.3,31595,6.4,76.0,202.2
+2025,Liverpool,England,Health,1,92.5,495,4,736.1,22528,11.2,73.6,242.3
+2025,Liverpool,England,Education,3,72.6,499,3,589.2,25799,9.9,75.1,183.4
+2025,Glasgow,Scotland,Income,4,68.5,633,4,598.6,27832,8.4,77.2,197.4
+2025,Glasgow,Scotland,Employment,2,84.2,629,4,660.8,25760,10.9,74.4,210.5
+2025,Glasgow,Scotland,Health,3,71.5,635,4,658.5,25271,9.6,76.2,255.4
+2025,Glasgow,Scotland,Education,5,56.0,652,3,491.6,29634,9.0,77.5,177.1
+2025,Edinburgh,Scotland,Income,7,38.9,548,3,494.0,38565,6.8,80.3,153.3
+2025,Edinburgh,Scotland,Employment,6,44.2,527,3,496.3,34229,8.2,79.5,174.0
+2025,Edinburgh,Scotland,Health,7,36.6,535,3,475.1,34630,6.2,79.9,188.7
+2025,Edinburgh,Scotland,Education,7,35.3,528,2,438.0,33685,5.5,79.7,154.0
+2025,Cardiff,Wales,Income,5,51.7,371,2,548.4,28313,7.9,77.7,169.3
+2025,Cardiff,Wales,Employment,7,33.3,370,2,447.6,32340,6.2,81.1,165.7
+2025,Cardiff,Wales,Health,5,49.5,363,2,528.6,33169,8.2,76.5,202.1
+2025,Cardiff,Wales,Education,7,36.4,367,2,428.3,36576,5.5,78.4,144.3
+2025,Belfast,Northern Ireland,Income,4,60.0,344,2,568.1,29540,8.1,76.7,209.0
+2025,Belfast,Northern Ireland,Employment,5,57.5,339,2,548.5,32135,8.1,78.3,171.2
+2025,Belfast,Northern Ireland,Health,3,72.3,344,2,645.7,26661,7.9,75.0,201.7
+2025,Belfast,Northern Ireland,Education,5,48.1,347,2,492.9,35544,8.2,78.5,169.1
+2025,Bristol,England,Income,5,56.8,476,3,545.3,33595,7.6,78.0,213.6
+2025,Bristol,England,Employment,7,30.5,468,2,412.8,39706,7.5,80.8,152.3
+2025,Bristol,England,Health,5,52.8,466,3,559.6,31192,8.4,78.8,186.9
+2025,Bristol,England,Education,9,17.5,468,2,376.1,38246,3.3,83.6,121.0
