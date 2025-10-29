@@ -4,7 +4,7 @@ The dataset includes indicators such as deprivation domains (employment, health,
 
 The goal is to uncover patterns, trends, and predictive insights that can help understand how socioeconomic inequality affects public health outcomes.
 
-Project Aims & Objectives
+#Project Aims & Objectives
 
 Predict Mortality Rates
 Build supervised ML models (e.g., Random Forest, XGBoost) to predict mortality rates per 100k from deprivation and income indicators.
@@ -24,7 +24,7 @@ Create a composite scoring system to rank cities based on multidimensional depri
 Explainable AI for Policy Insight
 Use model interpretation tools (e.g., SHAP, LIME) to identify which deprivation factors most influence health outcomes.
 
-Methodology
+#Methodology
 
 Data Preprocessing: Cleaning, normalization, handling missing values.
 
@@ -36,7 +36,7 @@ Interpretability: Feature importance, SHAP explanations, and policy-relevant vis
 
 Evaluation: R², RMSE, silhouette score, forecasting accuracy depending on task type.
 
-Impact
+#Impact
 
 This project aims to contribute to evidence-based policymaking by highlighting:
 
